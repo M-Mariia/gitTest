@@ -1,2 +1,1 @@
-Pierwsza wersja pliku nr1
-zmiana w pliku nr1
+zmiana na masterze
